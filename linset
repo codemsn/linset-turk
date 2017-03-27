@@ -1,8 +1,8 @@
 #!/bin/bash
 
 ########## Modo DEBUG ##########
-##			      ##
-        LINSET_DEBUG=0
+##			    linset  ##
+        LINSET_D
 ##			      ##
 ################################
 
